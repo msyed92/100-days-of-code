@@ -9,3 +9,4 @@ Worked on projects from Jose Portilla's list: Find n digits of Pi, Collatz Conje
 
 
 ### R1D2
+Continued with projects on the list. Tried to build a file transfer program. Althought I was able to follow a tutorial on YouTube, didn't fully understand. Decided to work on Happy Numbers.
