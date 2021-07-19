@@ -15,3 +15,9 @@ I decided to extend the Pig Latin translator and not just translate one word, bu
 
 ### R1D2
 Continued with projects on the list. Tried to build a [file transfer program](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_2/pythonFTP). Although I was able to follow a tutorial on YouTube, didn't fully understand. Decided to work on [Happy Numbers](https://github.com/msyed92/100-days-of-code/blob/master/Projects/Day_2/happynumbers.py).
+
+### R1D3
+
+Reviewing HTML basics and have a skeleton for a resume website. Really simple, but I want to include it to show progress.
+Code: https://github.com/msyed92/cv
+Page: https://msyed92.github.io/cv/
