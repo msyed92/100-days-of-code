@@ -21,3 +21,8 @@ Continued with projects on the list. Tried to build a [file transfer program](ht
 Reviewing HTML basics and have a skeleton for a resume website. Really simple, but I want to include it to show progress.
 Code: https://github.com/msyed92/cv
 Page: https://msyed92.github.io/cv/
+
+### R1D4
+
+Reviewing CSS basics and styling up a simple webpage with images and text.
+[Broccoli Fan Site](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_4)
