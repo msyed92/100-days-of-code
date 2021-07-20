@@ -1,0 +1,37 @@
+/*Tag Selectors*/
+body {
+  background-color: #eae2b6;
+  font-family: "Garamond", "Arial", sans-serif;
+  color: #a3a847;
+  text-align: center;
+}
+h1 {
+  color: #558776;
+  font-size: 100px;
+}
+
+h1:hover {
+    color: #a3a847
+}
+
+img {
+  border-radius: 10px;
+}
+
+img:hover {
+    background-color: gold;
+}
+
+/*Class Selectors*/
+.bacon {
+  background-color: #c84b31;
+}
+
+.broccoli {
+  background-color: #7f8b52;
+}
+
+.txt:hover{
+    color: #558776;
+    font-weight: bold;
+}
