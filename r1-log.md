@@ -26,3 +26,9 @@ Page: https://msyed92.github.io/cv/
 
 Reviewing CSS basics and styling up a simple webpage with images and text.
 [Broccoli Fan Site](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_4)
+
+### R1D5
+
+Continued reviewing CSS and styled a webpage with images/icons.
+Still working on it.
+[Portfolio Site](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_5)
