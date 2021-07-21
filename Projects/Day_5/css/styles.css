@@ -1,0 +1,108 @@
+body {
+  margin: 0px;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  color: #fe9898;
+  font-family: "Pacifico", cursive;
+  font-size: 5.625rem;
+  font-weight: normal;
+  margin: 50px auto 0px auto;
+}
+
+h2 {
+  color: #fe9898;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  font-weight: bolder;
+  margin: 50px auto;
+}
+
+h3 {
+    color: #B980F0;
+    font-family: "Montserrat", sans-serif;
+    font-weight: bolder;
+}
+
+hr {
+    border-style: dotted none none none;
+    border-width: 7px;
+    border-color: #F5E79D; 
+    height: 0px;
+    width: 5%;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.top-container {
+  background-color: #e5fbb8;
+  padding-top: 100px;
+  position: relative;
+}
+
+.middle-container {
+    padding-top: 50px;
+}
+
+.bottom-container {
+    background-color: #FE9898;
+    margin: 0 auto;
+    padding: 50px 0;
+}
+
+.main {
+    line-height: 2;;
+    margin: 50px auto;
+    width: 30%;
+}
+
+.skill-img1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+    border-radius: 30%;
+}
+
+
+.skill-img2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+    border-radius: 30%;
+}
+
+.profilepic {
+    margin: 0 auto;
+}
+
+.skill-row {
+    line-height: 2;
+    margin: 70px auto;
+    text-align: left;
+    width: 50%;
+}
+
+.footer-link {
+    margin: 0 10px;
+}
+
+.copyright {
+    margin: 0 auto;
+    padding-top: 20px;
+}
+
+#pro {
+  text-decoration: underline;
+}
