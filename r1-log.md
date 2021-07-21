@@ -32,3 +32,8 @@ Reviewing CSS basics and styling up a simple webpage with images and text.
 Continued reviewing CSS and styled a webpage with images/icons.
 Still working on it.
 [Portfolio Site](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_5)
+
+### R1D6
+
+Completed basics of CSS practice and made a sample site.
+[Portfolio Site](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_5)
