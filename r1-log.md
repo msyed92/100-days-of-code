@@ -40,4 +40,7 @@ Completed basics of CSS practice and made a sample site.
 
 ### R1D7-10
 Review Bootstrap and made another portfolio site that is responsive. Not all the links are functional as the purpose of this was mostly to practice CSS and Bootstrap styling:
-Link: https://msyed92.github.io/sample_portfolio/
+Link:
+[Portfolio site](https://msyed92.github.io/sample_portfolio/)
+[Code](https://github.com/msyed92/sample_portfolio)
+
