@@ -39,4 +39,5 @@ Completed basics of CSS practice and made a sample site.
 [Portfolio Site](https://github.com/msyed92/100-days-of-code/tree/master/Projects/Day_5)
 
 ### R1D7-10
-Review Bootstrap and made another portfolio site that is responsive. Will post code when completed.
+Review Bootstrap and made another portfolio site that is responsive. Not all the links are functional as the purpose of this was mostly to practice CSS and Bootstrap styling:
+Link: https://msyed92.github.io/sample_portfolio/
