@@ -44,3 +44,6 @@ Link:
 [Portfolio site](https://msyed92.github.io/sample_portfolio/)
 [Code](https://github.com/msyed92/sample_portfolio)
 
+### R1D11
+Reviewed Javascript! Straightforward for now. Haven't gotten to implementing in scripts yet.
+
