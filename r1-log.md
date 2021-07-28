@@ -47,3 +47,5 @@ Link:
 ### R1D11
 Reviewed Javascript! Straightforward for now. Haven't gotten to implementing in scripts yet.
 
+### R1D12
+More review of Javascript. Got to adding it to html files and interacting with CSS.
