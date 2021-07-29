@@ -56,3 +56,4 @@ More review of Javascript, learned about event listeners, animation, and playing
 ### R1D14
 
 Practicing by making projects from John Smilga's Vanilla JS projects. Making a color flipper, will include code when finished.
+Got back to it later in the day and completed the color flipper! Included both the simple version (just flips between basic colors) and a hex version, which flips through a randomly generated hex code color. Here it is" [Color Flipper](https://msyed92.github.io/color_flipper/)
