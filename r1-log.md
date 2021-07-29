@@ -52,3 +52,7 @@ More review of Javascript. Got to adding it to html files and interacting with C
 
 ### R1D13
 More review of Javascript, learned about event listeners, animation, and playing sounds. Won't upload code since I just followed along with the tutorial. Will practice on my own tomorrow.
+
+### R1D14
+
+Practicing by making projects from John Smilga's Vanilla JS projects. Making a color flipper, will include code when finished.
