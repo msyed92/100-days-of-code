@@ -49,3 +49,6 @@ Reviewed Javascript! Straightforward for now. Haven't gotten to implementing in 
 
 ### R1D12
 More review of Javascript. Got to adding it to html files and interacting with CSS.
+
+### R1D13
+More review of Javascript, learned about event listeners, animation, and playing sounds. Won't upload code since I just followed along with the tutorial. Will practice on my own tomorrow.
