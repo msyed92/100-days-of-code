@@ -62,3 +62,7 @@ Got back to it later in the day and completed the color flipper! Included both t
 
 Made another project from John Smilga's list. Simple counter with color change.
 [Counter](https://msyed92.github.io/counter/)
+
+### R1D16
+
+Working on a basic carousel. Just did the structure and the CSS. Haven't gotten to the functionality yet.
