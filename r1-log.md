@@ -69,4 +69,8 @@ Day 16: Working on a basic carousel. Just did the structure and the CSS. Haven't
 Day 17: Completed the funtionality
 Day 18: Tidied up the styling, and improve the script so it included objects and functions.
 
-[Reviews Carousel]()
+[Reviews Carousel](https://msyed92.github.io/reviews_carousel/index.html)
+
+### R1D19
+
+Learned about jQUery and started a basic SIMON game challenge in the Udemy course.
