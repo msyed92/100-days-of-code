@@ -75,6 +75,6 @@ Day 18: Tidied up the styling, and improve the script so it included objects and
 
 Learned about jQUery and started a basic SIMON game challenge in the Udemy course. Not uploading the code since it's from a tutorial.
 
-### R1D20-21
+### R1D20-22
 
 Practicing javascript by making a responsive navbar. Will upload when finished.
