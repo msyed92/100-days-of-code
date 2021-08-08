@@ -75,6 +75,12 @@ Day 18: Tidied up the styling, and improve the script so it included objects and
 
 Learned about jQUery and started a basic SIMON game challenge in the Udemy course. Not uploading the code since it's from a tutorial.
 
-### R1D20-22
+### R1D20-23
 
 Practicing javascript by making a responsive navbar. Will upload when finished.
+
+Completed. Got the functionality to work, perhaps the styling could be improved. But this was done without tutorials just me trying things out and a little bit of Googling for small pieces of the code. Going to check out the tutorial for this tomorrow because there has to be a better/cleaner way.
+
+[Code](https://github.com/msyed92/navbar)
+
+[Page](https://msyed92.github.io/navbar/)
