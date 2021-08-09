@@ -84,3 +84,7 @@ Completed. Got the functionality to work, perhaps the styling could be improved.
 [Code](https://github.com/msyed92/navbar)
 
 [Page](https://msyed92.github.io/navbar/)
+
+### R1D24
+
+Watched the video on how to make the navbar, applied what I learned to make a sidebar. Got the functionality, once I improve the CSS I'll upload the code. Finding CSS way harder than Javascript.
