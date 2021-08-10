@@ -93,5 +93,5 @@ Watched the video on how to make the navbar, applied what I learned to make a si
 
 Worked on fixing some of the styling and functionality for the sidebar. Having a lot of issues getting it to work with resizing windows, and hiding some of the buttons when the sidebar is open. Will fix soon.
 
-[page]https://msyed92.github.io/sidebar/)
+[page](https://msyed92.github.io/sidebar/)
 [code](https://github.com/msyed92/sidebar)
