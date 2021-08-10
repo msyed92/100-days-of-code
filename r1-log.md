@@ -88,3 +88,10 @@ Completed. Got the functionality to work, perhaps the styling could be improved.
 ### R1D24
 
 Watched the video on how to make the navbar, applied what I learned to make a sidebar. Got the functionality, once I improve the CSS I'll upload the code. Finding CSS way harder than Javascript.
+
+### R1D25
+
+Worked on fixing some of the styling and functionality for the sidebar. Having a lot of issues getting it to work with resizing windows, and hiding some of the buttons when the sidebar is open. Will fix soon.
+
+[page]https://msyed92.github.io/sidebar/)
+[code](https://github.com/msyed92/sidebar)
