@@ -102,3 +102,7 @@ Used the source files to make a modal banner with jQuery/Javascript. Didn't real
 
 [page](https://msyed92.github.io/modal/)
 [code](https://github.com/msyed92/modal)
+
+### R1D27
+
+Continued the Web Dev Bootcamp course on Udemy. Learned about Nodejs and basics of backend.
