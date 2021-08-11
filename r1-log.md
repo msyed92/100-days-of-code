@@ -95,3 +95,10 @@ Worked on fixing some of the styling and functionality for the sidebar. Having a
 
 [page](https://msyed92.github.io/sidebar/)
 [code](https://github.com/msyed92/sidebar)
+
+### R1D26
+
+Used the source files to make a modal banner with jQuery/Javascript. Didn't really customize it but included it anyway.
+
+[page](https://msyed92.github.io/modal/)
+[code](https://github.com/msyed92/modal)
