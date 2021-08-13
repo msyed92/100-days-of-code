@@ -110,3 +110,7 @@ Continued the Web Dev Bootcamp course on Udemy. Learned about Nodejs and basics 
 ### R1D28
 
 Learned about Express with Node, while it was very easy to understand I think I want to learn how to build things with just Node first, and then add Express on afterwards. Going to go on YouTube to learn.
+
+### R1D29
+
+Reviewed Javascript basics on freeCodeCamp. Lot of it was review, some new thigns (object notation). Going to complete this course before I continue with learning Node. After learning Node, I'll continue with the Udemy course. Want to be thorough.
