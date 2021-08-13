@@ -106,3 +106,7 @@ Used the source files to make a modal banner with jQuery/Javascript. Didn't real
 ### R1D27
 
 Continued the Web Dev Bootcamp course on Udemy. Learned about Nodejs and basics of backend.
+
+### R1D28
+
+Learned about Express with Node, while it was very easy to understand I think I want to learn how to build things with just Node first, and then add Express on afterwards. Going to go on YouTube to learn.
