@@ -118,3 +118,7 @@ Reviewed Javascript basics on freeCodeCamp. Lot of it was review, some new thign
 ### R1D30
 
 Reviewed regex, debugging, some practice with algorithms, and more on data structures.
+
+### R1D31
+
+Continued the fCC course, Intermediate Algorithm scripting...very challenging but fun!
