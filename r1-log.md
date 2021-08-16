@@ -121,4 +121,8 @@ Reviewed regex, debugging, some practice with algorithms, and more on data struc
 
 ### R1D31
 
-Continued the fCC course, Intermediate Algorithm scripting...very challenging but fun!
+Continued the fCC course, Intermediate Algorithm scripting...challenging but fun!
+
+### R1D32
+
+Almost done with the fCC javascript course. one more problemt left.
