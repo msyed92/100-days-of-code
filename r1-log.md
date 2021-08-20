@@ -111,18 +111,16 @@ Continued the Web Dev Bootcamp course on Udemy. Learned about Nodejs and basics 
 
 Learned about Express with Node, while it was very easy to understand I think I want to learn how to build things with just Node first, and then add Express on afterwards. Going to go on YouTube to learn.
 
-### R1D29
+### R1D29-35
 
 Reviewed Javascript basics on freeCodeCamp. Lot of it was review, some new thigns (object notation). Going to complete this course before I continue with learning Node. After learning Node, I'll continue with the Udemy course. Want to be thorough.
 
-### R1D30
-
 Reviewed regex, debugging, some practice with algorithms, and more on data structures.
-
-### R1D31
 
 Continued the fCC course, Intermediate Algorithm scripting...challenging but fun!
 
-### R1D32
-
 Almost done with the fCC javascript course. one more problemt left.
+
+worked on the projects!
+
+### R1D36
