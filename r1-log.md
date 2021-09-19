@@ -123,6 +123,36 @@ Almost done with the fCC javascript course. one more problemt left.
 
 worked on the projects!
 
-### R1D36-37
+### R1D36-39
 
 John Smilga's Nodejs tutorials on YouTube.
+
+### R1D40-42
+
+Made a simple site with nodejs in backend. Worked on some freeCodeCamp Challenge questions.
+
+### R1D43
+
+Practiced with node by making a BMI calculator
+
+### R1D44
+
+Learned about APIs.
+
+### R1D45-46
+
+Continues practicing with APIs, learned about ExpressJS, get/post methods
+
+
+### R1D47
+
+Practiced with mailchimp API
+
+### R1D48-61
+
+Practiced APIs and everything else I've learned by making a web app that returns a random item from BOTW item API by category and/or location. Styling is working well, got the basic functionality, now I just need to get it to work for all combinations. Even got it deployed on Heroku. Still have improvements to make.
+
+[page](https://enigmatic-garden-94515.herokuapp.com/)
+
+[code](https://github.com/msyed92/BOTW_item_search)
+
