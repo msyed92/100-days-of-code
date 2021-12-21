@@ -6,8 +6,9 @@ Goal: Make a Twitter clone with an *edit* feature that is verified through NLP.
 
 Resources:
 
-Web Development: [https://www.udemy.com/course/the-complete-web-development-bootcamp/](Angela Yu Web Dev Course)
-Machine Learning: [https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/](Jose Portilla Data Science/ML Course) and reading [Elements of Statistical](Learning https://hastie.su.domains/ElemStatLearn/)
+Web Development: [Angela Yu Web Dev Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
+
+Machine Learning: [Jose Portilla Data Science/ML Course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) and reading [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
 
 ### Day 1: 20-12-21
 
