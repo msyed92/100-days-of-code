@@ -22,3 +22,15 @@ Machine Learning: [Jose Portilla Data Science/ML Course](https://www.udemy.com/c
 
 **Link(s) to work**
 None today since I mostly did tutorials!
+
+### Day 1: 20-12-22
+
+**Today's Progress**:
+
+* reviewed some matplotlib basics on the Python Udemy course course
+* reviewed yesterday's anki cards from ESL text
+
+**Thoughts** got an hour in today, want to schedule more time out.
+
+**Link(s) to work**
+None, tutorials/studying
