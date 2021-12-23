@@ -34,3 +34,17 @@ None today since I mostly did tutorials!
 
 **Link(s) to work**
 None, tutorials/studying
+
+### Day 2: 22-12-21
+
+**Today's Progress**:
+
+* reviewed seasborn on the Python Udemy course course
+* reviewed yesterday's anki cards from ESL text
+* read a new section of ESL text
+* reviewed node.js in WebDev course
+
+**Thoughts** More time on WebDev so I can start building out Twitter clone first
+
+**Link(s) to work**
+None, tutorials/studying
