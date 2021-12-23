@@ -48,3 +48,18 @@ None, tutorials/studying
 
 **Link(s) to work**
 None, tutorials/studying
+
+
+### Day 4: 23-12-21
+
+**Today's Progress**:
+
+* reviewed dataviz with pandas on the Python Udemy course course
+* reviewed yesterday's anki cards from ESL text
+* learned more details about bias/variance and dimensionality in supervised learning
+* learned about EJS
+* made a to-do list app (basic)
+
+**Thoughts** going to improve on the to do list app, since it was from a tutorial
+
+**Link(s) to work**
