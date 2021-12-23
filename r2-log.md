@@ -35,7 +35,7 @@ None today since I mostly did tutorials!
 **Link(s) to work**
 None, tutorials/studying
 
-### Day 2: 22-12-21
+### Day 3: 22-12-21
 
 **Today's Progress**:
 
