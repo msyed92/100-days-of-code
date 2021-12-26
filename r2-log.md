@@ -65,3 +65,17 @@ None, tutorials/studying
 **Link(s) to work**
 
 [To Do list App](https://github.com/msyed92/to-do-list)
+
+### Day 5: 26-12-21
+
+**Today's Progress**:
+
+* started capstone data project in udemy course
+* cleaned up code in to do list app
+* made module in node
+
+**Thoughts** to do list app unchecks/uncrosses items when you add news ones, want to fix that. also want to include delete button
+
+**Link(s) to work**
+
+[To Do list App](https://github.com/msyed92/to-do-list)
