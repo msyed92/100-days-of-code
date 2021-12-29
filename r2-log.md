@@ -113,9 +113,11 @@ None, tutorials/studying
 * worked on to-do list, included a delete button
 * practiced python dataviz
 
-**Thoughts** think I will stop working on this project now, and improve upon it with the next set of skills
+**Thoughts** Although I deployed it on heroku, think I will stop working on this project now, and improve upon it with the next set of skills. It definitely has some issues (deleted items reappearing), but I will work on it as I go
 
 **Link(s) to work**
 
 
-[To Do list App](https://github.com/msyed92/to-do-list)
+[To Do list Code](https://github.com/msyed92/to-do-list)
+
+[To Do List App](https://to-do-list-manaal.herokuapp.com/)
