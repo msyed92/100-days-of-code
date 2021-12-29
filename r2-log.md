@@ -105,3 +105,16 @@ None, tutorials/studying
 
 
 [To Do list App](https://github.com/msyed92/to-do-list)
+
+### Day 8: 29-12-21
+
+**Today's Progress**:
+
+* worked on to-do list, included a delete button
+
+**Thoughts** think I will stop working on this project now, and improve upon it with the next set of skills
+
+**Link(s) to work**
+
+
+[To Do list App](https://github.com/msyed92/to-do-list)
