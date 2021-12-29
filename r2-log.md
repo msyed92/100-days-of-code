@@ -97,7 +97,11 @@ None, tutorials/studying
 **Today's Progress**:
 
 * How to Code Simple Data on edX
+* worked on to-do list, made it so that items that are checked stay checked
 
-**Thoughts** need to be more consistent and stick to plan!
+**Thoughts** next step is add a delete button
 
 **Link(s) to work**
+
+
+[To Do list App](https://github.com/msyed92/to-do-list)
