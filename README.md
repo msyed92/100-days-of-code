@@ -2,9 +2,10 @@
 
 ## Contents
 
+* [CURRENT Progress](r2-log.md)
+
 * [Rules](rules.md)
 * [Log - click here to see my progress for round 1](r1-log.md)
-* [Log - click here to see my progress for round 2](r2-log.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)
 
