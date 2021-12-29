@@ -111,6 +111,7 @@ None, tutorials/studying
 **Today's Progress**:
 
 * worked on to-do list, included a delete button
+* practiced python dataviz
 
 **Thoughts** think I will stop working on this project now, and improve upon it with the next set of skills
 
