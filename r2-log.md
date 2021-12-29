@@ -1,14 +1,16 @@
 # 100 Days Of Code - Log
 
-Topics I'm Learning: Web Develeopment, Data Science/Maching Learning, NLP
+Topics I'm Learning: Web Develeopment, Data Science/Maching Learning, NLP, CS
 
 Goal: Make a Twitter clone with an *edit* feature that is verified through NLP.
 
-Resources:
+Resources: 
 
 Web Development: [Angela Yu Web Dev Course](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 
 Machine Learning: [Jose Portilla Data Science/ML Course](https://www.udemy.com/course/python-for-data-science-and-machine-learning-bootcamp/) and reading [Elements of Statistical Learning](https://hastie.su.domains/ElemStatLearn/)
+
+Computer Science: [OSSU](https://github.com/ossu/computer-science)
 
 ### Day 1: 20-12-21
 
@@ -79,3 +81,23 @@ None, tutorials/studying
 **Link(s) to work**
 
 [To Do list App](https://github.com/msyed92/to-do-list)
+
+### Day 6: 27-12-21
+
+**Today's Progress**:
+
+* freeCodeCamp Javasccript problem
+
+**Thoughts** need to be more consistent and stick to plan!
+
+**Link(s) to work**
+
+### Day 7: 28-12-21
+
+**Today's Progress**:
+
+* How to Code Simple Data on edX
+
+**Thoughts** need to be more consistent and stick to plan!
+
+**Link(s) to work**
