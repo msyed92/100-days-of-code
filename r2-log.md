@@ -104,13 +104,14 @@ None, tutorials/studying
 **Link(s) to work**
 
 
-[To Do list App](https://github.com/msyed92/to-do-list)
+[To Do list Code](https://github.com/msyed92/to-do-list)
 
 ### Day 8: 29-12-21
 
 **Today's Progress**:
 
 * worked on to-do list, included a delete button
+* worked through blog tutorial
 * practiced python dataviz
 
 **Thoughts** Although I deployed it on heroku, think I will stop working on this project now, and improve upon it with the next set of skills. It definitely has some issues (deleted items reappearing), but I will work on it as I go
@@ -121,3 +122,7 @@ None, tutorials/studying
 [To Do list Code](https://github.com/msyed92/to-do-list)
 
 [To Do List App](https://to-do-list-manaal.herokuapp.com/)
+
+[blog Tutorial Code](https://github.com/msyed92/blog-tutorial)
+
+
