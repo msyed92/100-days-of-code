@@ -137,6 +137,20 @@ None, tutorials/studying
 
 [To Do list Code](https://github.com/msyed92/to-do-list)
 
+### Day 10: 31-12-21
+
+**Today's Progress**:
+
+* continued Udemy web dev course
+* worked on including database to blog app
+* deployed to do list app
+
+**Thoughts** None
+
+**Link(s) to work**
+
 [To Do list app](https://to-do-list-manaal.herokuapp.com/)
+
+[blog Tutorial Code](https://github.com/msyed92/blog-tutorial)
 
 
