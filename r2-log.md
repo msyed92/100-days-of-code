@@ -121,8 +121,19 @@ None, tutorials/studying
 
 [To Do list Code](https://github.com/msyed92/to-do-list)
 
-[To Do List App](https://to-do-list-manaal.herokuapp.com/)
-
 [blog Tutorial Code](https://github.com/msyed92/blog-tutorial)
+
+### Day 9: 30-12-21
+
+**Today's Progress**:
+
+* continued Udemy web dev course (learned about mongoose and connected database to app)
+* edX course
+
+**Thoughts** removed the deployment because I don't know how to deploy with databases (yet!)
+
+**Link(s) to work**
+
+[To Do list Code](https://github.com/msyed92/to-do-list)
 
 
