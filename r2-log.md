@@ -128,6 +128,7 @@ None, tutorials/studying
 **Today's Progress**:
 
 * continued Udemy web dev course (learned about mongoose and connected database to app)
+* deployed to heroku
 * edX course
 
 **Thoughts** removed the deployment because I don't know how to deploy with databases (yet!)
@@ -135,5 +136,6 @@ None, tutorials/studying
 **Link(s) to work**
 
 [To Do list Code](https://github.com/msyed92/to-do-list)
+[To Do list app](https://to-do-list-manaal.herokuapp.com/)
 
 
