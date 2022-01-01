@@ -144,8 +144,9 @@ None, tutorials/studying
 * continued Udemy web dev course
 * worked on including database to blog app
 * deployed to do list app
+* learned about authentication, encryption, salting, hashing
 
-**Thoughts** None
+**Thoughts** Need to learn more about cookies, Passport.js, in order to understand because the module on it in the udemy course is not sufficient
 
 **Link(s) to work**
 
