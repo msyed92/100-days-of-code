@@ -154,4 +154,6 @@ None, tutorials/studying
 
 [blog Tutorial Code](https://github.com/msyed92/blog-tutorial)
 
+[Secrets code](https://github.com/msyed92/secrets)
+
 
