@@ -156,4 +156,14 @@ None, tutorials/studying
 
 [Secrets code](https://github.com/msyed92/secrets)
 
+### Day 11: 01-01-22
+
+**Today's Progress**:
+
+* learned about Express middleware on YouTube
+* will work on exercises on fCC and exercism
+
+**Thoughts** Supplementing the udemy web dev course with youtube university is the best thing! One course cannot possibly cover it all.
+
+**Link(s) to work**
 
