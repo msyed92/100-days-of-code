@@ -167,3 +167,13 @@ None, tutorials/studying
 
 **Link(s) to work**
 
+### Day 12: 02-01-22
+
+**Today's Progress**:
+
+* learned about user authentication with passport and express
+
+**Thoughts** I feel a lot more motivated now because I think backend is better suited for me than front end. Really excited to continue learning.
+
+**Link(s) to work**
+
