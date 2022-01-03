@@ -177,3 +177,13 @@ None, tutorials/studying
 
 **Link(s) to work**
 
+### Day 13: 03-01-22
+
+**Today's Progress**:
+
+* learned about JSON Web Tokens today
+
+**Thoughts** Didn't do too much today (back to work), just tutorial and practicing problems on fCC/exercism.
+
+**Link(s) to work**
+
