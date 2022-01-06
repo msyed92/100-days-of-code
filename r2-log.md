@@ -182,8 +182,22 @@ None, tutorials/studying
 **Today's Progress**:
 
 * learned about JSON Web Tokens today
+* authentication with passport
 
 **Thoughts** Didn't do too much today (back to work), just tutorial and practicing problems on fCC/exercism.
 
 **Link(s) to work**
+
+### Day 14-15: 04-01-22 - 05-01-22
+
+**Today's Progress**:
+
+* learned about oauth with passport
+* completed the secrets project with some extra functionality beyond the tutorial
+
+**Thoughts** Nearly done with the Udemy Web Dev course! One module left which is React. Since I want to practice backend, I think I'm going to skip that module and go back to it once I complete some projects.
+
+**Link(s) to work**
+
+[Secrets code](https://github.com/msyed92/secrets)
 
