@@ -201,3 +201,16 @@ None, tutorials/studying
 
 [Secrets code](https://github.com/msyed92/secrets)
 
+### Day 16: 06-01-22
+
+**Today's Progress**:
+
+* set up the base files for the twitter clone
+* connecter local postgresql server (had to do a lot of searching to get this to work)
+
+**Thoughts** node + postgres require a bit of learning, but it's not hard. Probably going to work on front-end first (just the base) so I have some idea of what I am working with as I work on the backend.
+
+**Link(s) to work**
+
+[Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
+
