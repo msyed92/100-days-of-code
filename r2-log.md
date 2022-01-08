@@ -214,3 +214,17 @@ None, tutorials/studying
 
 [Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
 
+### Day 17: 07-01-22 - 08-01-22
+
+**Today's Progress**:
+
+* made the basics of the front end
+* set up the server
+* tried to connect passport (failed)
+
+**Thoughts** getting authentication data to the front end is a little difficult. not sure if I need to add a framework?
+
+**Link(s) to work**
+
+[Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
+
