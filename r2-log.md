@@ -228,3 +228,22 @@ None, tutorials/studying
 
 [Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
 
+### Day 18-39: 09-01-22 - 31-01-22
+
+**Progress**:
+
+* connected passport authentication
+* started using Svelte/kit
+* made sign-in/sign-up page
+* started the home page
+* created timeline
+* connected tweet submission, like, retweet, follow/unfollow feature
+
+**Thoughts** Front End is getting a little chaotic. Need to keep it simple and remember the goal is the edit button and not to implement every current feature that Twitter currently has.
+
+**Link(s) to work**
+
+[Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
+
+
+
