@@ -245,5 +245,18 @@ None, tutorials/studying
 
 [Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
 
+### Day 40-44: 01-02-22 - 05-02-22
+
+**Progress**:
+
+* included edit button and connected with backend/database
+* included/follow unfollow button
+
+**Thoughts** Need to refactor server side!
+
+**Link(s) to work**
+
+[Twitter clone](https://github.com/msyed92/twitter_clone/tree/main)
+
 
 
